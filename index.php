@@ -1,10 +1,10 @@
 <?php
     $hautDeFrance = array(
-        'Aisne' => 02,
-        'Nord' => 59,
-        'Oise' => 60,
-        'Pas-de-Calais' => 62,
-        'Somme' => 80);
+        02 => 'Aisne',
+        59 => 'Nord',
+        60 => 'Oise',
+        62 => 'Pas-de-Calais',
+        80 => 'Somme');
 ?>
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
